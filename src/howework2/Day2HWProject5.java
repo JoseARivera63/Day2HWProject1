@@ -6,5 +6,8 @@ public class Day2HWProject5 {
 		
 		System.out.println("Day2HWProject5...");
 	}
+	
+	public static void getResult() {
+	}
 
 }
